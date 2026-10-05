@@ -1,8 +1,5 @@
-#!name=Apple WLOC 定位修改
-#!desc=Apple 网络定位修改 | 使用说明: https://github.com/xepes0/wloc#使用方法
-#!author=Yu9191 Rewrite
-#!homepage=https://github.com/xepes0/wloc
-#!icon=https://raw.githubusercontent.com/xepes0/wloc/refs/heads/main/wloc.jpg
+#!name=Apple WLOC 自建定位修改
+#!desc=基于自建 Cloudflare Pages 服务的 Apple 网络定位修改
 #!category=Tools
 
 [Script]
